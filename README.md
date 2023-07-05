@@ -1,7 +1,10 @@
 <img align="left" src="src/assets/img/main/bg.png" atl="preview"/>
 
-# Portfolio_proekt_1
-"Window site" on javascript without programm library. 
+# Glazing balconies and terraces
+
+
+## ⚙ Technologies
+- Classic functional JS without programm library (ES6)
 
 ## 🔌 Setting up and running the app
 
