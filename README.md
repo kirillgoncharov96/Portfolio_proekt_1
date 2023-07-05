@@ -10,7 +10,7 @@ git clone https://github.com/bagtirr/CoffeeHouse.git
 # Install all dependencies
 npm i
 
-#Downgrade to Node.js v16 to fix the bug or
+# Downgrade to Node.js v16 to fix the bug or
 # Enable legacy OpenSSL provider.
 On Unix-like (Linux, macOS, Git bash, etc.):
 
@@ -22,5 +22,5 @@ set NODE_OPTIONS=--openssl-legacy-provider
 
 
 # Run app
-npm start
+gulp
 ```
