@@ -1,4 +1,4 @@
-<img align="left" src="bg.png" atl="preview"/>
+<img align="left" src="src/assets/img/main/bg.png" atl="preview"/>
 
 # Portfolio_proekt_1
 "Window site" on javascript without programm library. 
