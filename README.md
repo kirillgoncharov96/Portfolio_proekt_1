@@ -15,7 +15,7 @@
 
 ```bash
 # Clone repository:
-git clone https://github.com/kirillgoncharov96/Portfolio_proekt_1.git
+git clone https://github.com/kirillgoncharov96/Portfolio_project_1.git
 
 # Install all dependencies
 npm i
