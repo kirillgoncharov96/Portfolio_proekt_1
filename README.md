@@ -4,7 +4,7 @@
 
 
 ## ⚙ Technologies
-- Classic functional JS without programm library (ES6)
+-  Classic functional JS without programm library (ES6)
 
 ## 🔌 Setting up and running the app
 
