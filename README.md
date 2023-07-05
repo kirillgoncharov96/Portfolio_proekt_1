@@ -5,7 +5,7 @@
 
 ```bash
 # Clone repository:
-git clone https://github.com/bagtirr/CoffeeHouse.git
+git clone https://github.com/kirillgoncharov96/Portfolio_proekt_1.git
 
 # Install all dependencies
 npm i
