@@ -5,6 +5,11 @@
 
 ## ⚙ Technologies
 -  Classic functional JS without programm library (ES6)
+-  Gulp
+-  Webpack
+-  Babel
+-  HTML5
+-  CSS
 
 ## 🔌 Setting up and running the app
 
