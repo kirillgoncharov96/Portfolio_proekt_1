@@ -20,8 +20,7 @@ git clone https://github.com/kirillgoncharov96/Portfolio_project_1.git
 # Install all dependencies
 npm i
 
-# Downgrade to Node.js v16 to fix the bug or
-# Enable legacy OpenSSL provider.
+# Downgrade to Node.js v16 to fix the bug or enable legacy OpenSSL provider.
 On Unix-like (Linux, macOS, Git bash, etc.):
 
 export NODE_OPTIONS=--openssl-legacy-provider
